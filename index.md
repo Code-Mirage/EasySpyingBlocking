@@ -9,6 +9,9 @@ Version:3.0.0.0
 Language: English , Japanese , Turkish , Korean , Chinese (Traditional) ,  Chinese (Simplified)  ,  Russian
 
 
+<img src="https://github.com/Code-Mirage/EasySpyingBlocking/blob/gh-pages/form.PNG?raw=true">
+
+
 ### Download
 
 
