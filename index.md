@@ -2,6 +2,8 @@
 
 Blocking&Optimization System OS
 
+Windows 10 System Start to up Run
+
 Version:3.0.0.0
 
 Language: English , Japanese , Turkish , Korean , Chinese (Traditional) ,  Chinese (Simplified)  ,  Russian
