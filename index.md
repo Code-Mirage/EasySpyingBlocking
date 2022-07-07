@@ -9,12 +9,12 @@ Version:3.0.0.0
 Language: English , Japanese , Turkish , Korean , Chinese (Traditional) ,  Chinese (Simplified)  ,  Russian
 
 
-<img src="https://github.com/JackCodeM/EasySpyingBlocking/blob/gh-pages/form.PNG?raw=true">
+<img src="https://github.com/JackCodeMS/EasySpyingBlocking/blob/gh-pages/form.PNG?raw=true">
 
 
 ### Download
 
 
-<a href="https://github.com/JackCodeM/EasySpyingBlocking/blob/gh-pages/Easy%20Spying%20Blocking.rar?raw=true">Download</a>
+<a href="https://github.com/JackCodeMS/EasySpyingBlocking/blob/gh-pages/Easy%20Spying%20Blocking.rar?raw=true">Download</a>
 
 
