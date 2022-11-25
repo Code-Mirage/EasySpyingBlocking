@@ -1,6 +1,6 @@
 # EasySpyingBlocking
 Easy Spying Blocking &amp; Optimization
 
-<img src="https://github.com/JackCodeMS/EasySpyingBlocking/blob/gh-pages/form.PNG?raw=true">
+<img src="https://github.com/JackCode474/EasySpyingBlocking/blob/gh-pages/form.PNG?raw=true">
 
-<a href="https://JackCodeMS.github.io/EasySpyingBlocking/">Link Page</a>
+<a href="https://JackCode474.github.io/EasySpyingBlocking/">Link Page</a>
