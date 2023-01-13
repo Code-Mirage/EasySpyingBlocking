@@ -4,11 +4,11 @@ Blocking&Optimization System OS
 
 Windows 10 System Start to up Run
 
-Version:3.1.0.0
+Version:3.2.0.0
 
 Language: English,Japanese,Turkish,Korean,Chinese(Traditional),Chinese (Simplified),Russian,French,Czech
 
-Date of Update:11/13/2022
+Date of Update:01/13/2023
 
 <img src="https://github.com/JackCode474/EasySpyingBlocking/blob/gh-pages/form.PNG?raw=true">
 
