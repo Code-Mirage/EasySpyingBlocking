@@ -10,12 +10,12 @@ Language: English,Japanese,Turkish,Korean,Chinese(Traditional),Chinese (Simplifi
 
 Date of Update:01/13/2023
 
-<img src="https://github.com/JackCodeMirage/EasySpyingBlocking/blob/gh-pages/form.PNG?raw=true">
+<img src="https://github.com/CodeMirageM/EasySpyingBlocking/blob/gh-pages/form.PNG?raw=true">
 
 
 ### Download Software
 
-<a href="https://github.com/JackCodeMirage/EasySpyingBlocking/blob/gh-pages/Easy%20Spying%20Blocking.rar?raw=true">Download</a>
+<a href="https://github.com/CodeMirageM/EasySpyingBlocking/blob/gh-pages/Easy%20Spying%20Blocking.rar?raw=true">Download</a>
 
 
 ### note
